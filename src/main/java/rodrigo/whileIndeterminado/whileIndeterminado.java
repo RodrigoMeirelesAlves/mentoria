@@ -1,4 +1,4 @@
-package rodrigo;
+package rodrigo.whileIndeterminado;
 
 import java.util.Scanner;
 
