@@ -1,4 +1,4 @@
-package rodrigo.main;
+package rodrigo.estruturafor;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package rodrigo.notaIndeterminada;
+package rodrigo.estruturawhile;
 
 import java.util.Scanner;
 

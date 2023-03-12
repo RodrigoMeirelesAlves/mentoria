@@ -1,4 +1,4 @@
-package rodrigo.tabuada;
+package rodrigo.estruturafor;
 
 public class tabuada {
     public static void main(String[] args){
@@ -9,4 +9,5 @@ public class tabuada {
             System.out.println(t * tabuada);
         }
     }
+
 }
